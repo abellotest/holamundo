@@ -1,1 +1,7 @@
 https://github.com/abellotest/holamundo.git
+
+para clonar de git:
+>git remote add origin https://github.com/abellotest/holamundo.git
+>git push -u origin master
+>git remote
+>git origen master
